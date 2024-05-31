@@ -1,0 +1,15 @@
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Triangle\bin\Debug\net8.0\Triangle.exe
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Triangle\bin\Debug\net8.0\Triangle.deps.json
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Triangle\bin\Debug\net8.0\Triangle.runtimeconfig.json
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Triangle\bin\Debug\net8.0\Triangle.dll
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Triangle\bin\Debug\net8.0\Triangle.pdb
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Triangle\obj\Debug\net8.0\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Triangle\obj\Debug\net8.0\Triangle.AssemblyInfoInputs.cache
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Triangle\obj\Debug\net8.0\Triangle.AssemblyInfo.cs
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Triangle\obj\Debug\net8.0\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Triangle\obj\Debug\net8.0\Triangle.sourcelink.json
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Triangle\obj\Debug\net8.0\Triangle.dll
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Triangle\obj\Debug\net8.0\refint\Triangle.dll
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Triangle\obj\Debug\net8.0\Triangle.pdb
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Triangle\obj\Debug\net8.0\Triangle.genruntimeconfig.cache
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Triangle\obj\Debug\net8.0\ref\Triangle.dll
