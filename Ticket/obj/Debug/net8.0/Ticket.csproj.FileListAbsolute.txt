@@ -1,0 +1,15 @@
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Ticket\bin\Debug\net8.0\Ticket.exe
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Ticket\bin\Debug\net8.0\Ticket.deps.json
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Ticket\bin\Debug\net8.0\Ticket.runtimeconfig.json
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Ticket\bin\Debug\net8.0\Ticket.dll
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Ticket\bin\Debug\net8.0\Ticket.pdb
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Ticket\obj\Debug\net8.0\Ticket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Ticket\obj\Debug\net8.0\Ticket.AssemblyInfoInputs.cache
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Ticket\obj\Debug\net8.0\Ticket.AssemblyInfo.cs
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Ticket\obj\Debug\net8.0\Ticket.csproj.CoreCompileInputs.cache
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Ticket\obj\Debug\net8.0\Ticket.sourcelink.json
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Ticket\obj\Debug\net8.0\Ticket.dll
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Ticket\obj\Debug\net8.0\refint\Ticket.dll
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Ticket\obj\Debug\net8.0\Ticket.pdb
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Ticket\obj\Debug\net8.0\Ticket.genruntimeconfig.cache
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Ticket\obj\Debug\net8.0\ref\Ticket.dll
