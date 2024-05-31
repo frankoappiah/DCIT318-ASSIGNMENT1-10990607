@@ -1,0 +1,15 @@
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Grade\bin\Debug\net8.0\Grade.exe
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Grade\bin\Debug\net8.0\Grade.deps.json
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Grade\bin\Debug\net8.0\Grade.runtimeconfig.json
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Grade\bin\Debug\net8.0\Grade.dll
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Grade\bin\Debug\net8.0\Grade.pdb
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Grade\obj\Debug\net8.0\Grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Grade\obj\Debug\net8.0\Grade.AssemblyInfoInputs.cache
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Grade\obj\Debug\net8.0\Grade.AssemblyInfo.cs
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Grade\obj\Debug\net8.0\Grade.csproj.CoreCompileInputs.cache
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Grade\obj\Debug\net8.0\Grade.sourcelink.json
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Grade\obj\Debug\net8.0\Grade.dll
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Grade\obj\Debug\net8.0\refint\Grade.dll
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Grade\obj\Debug\net8.0\Grade.pdb
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Grade\obj\Debug\net8.0\Grade.genruntimeconfig.cache
+C:\Users\foapp\Desktop\DCIT318-Assignment1\Grade\obj\Debug\net8.0\ref\Grade.dll
